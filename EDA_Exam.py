@@ -17,8 +17,11 @@
 # 11.Apply Standardization of the data
 
 
-# In[31]:
-
+# In[31]:I am updating the file
+a=10
+b=20
+c=a+b
+c
 
 import pandas as pd
 import numpy as np
